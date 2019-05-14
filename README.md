@@ -3,6 +3,8 @@
 # Need Install
 pkg install git
 pkg install curl
+pkg install ruby
+gem install lolcat
 
 # cara pakai 
 
