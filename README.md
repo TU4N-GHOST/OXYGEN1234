@@ -9,6 +9,8 @@ pkg install figlet
 
 # cara pakai 
 
+https://github.com/TU4N-GHOST/OXYGEN1234
+
 cd OXYGEN1234
 
 chmod +x OXYGEN1234.sh
